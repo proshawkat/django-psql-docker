@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03a7b8df-9232-4071-bd8d-393bc212fda0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/HomeComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/ModalMenuComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/SidebarComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/TopNavbarComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/personal_accounts/PaymentComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/personal_accounts/PaymentMethodComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/personal_accounts/ReceiptsComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily-monthly-accounts/resources/js/components/personal_accounts/receipts_modal/receipts_modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_app/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fogzee_php/partial/top-navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-auth-with-laravel/resources/views/adminHome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-auth-with-laravel/resources/views/managerHome.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29BbWStAKz8xxYqGOE3QPYWnn2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../augie-learn-django" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a7b8df-9232-4071-bd8d-393bc212fda0" name="Default Changelist" comment="" />
+      <created>1652589456322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652589456322</updated>
+      <workItem from="1652589457462" duration="9894000" />
+      <workItem from="1652764104118" duration="9389000" />
+      <workItem from="1652785616022" duration="1855000" />
+      <workItem from="1652790036632" duration="5034000" />
+      <workItem from="1652800558104" duration="4280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652773632369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1652773632369" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1652768719408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1652768719408" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  db:
+    restart: always
+    image: postgres:13-alpine
+    environment:
+      - POSTGRES_DB=my_augie_learn_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123456
+    ports:
+      - "5432:5432"
+  web:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - .:/augie
+    command: python manage.py runserver 0.0.0.0:50051
+    ports:
+      - "50055:50051"
+    environment:
+      - DB_HOST=localhost
+      - DB_NAME=my_augie_learn_db
+      - DB_USER=postgres
+      - DB_PASS=123456
+    depends_on:
+      - db
